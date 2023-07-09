@@ -1,0 +1,3 @@
+The Full Form of HTTPS is HyperText Transfer Protocol Secure.
+ HTTP Secure (HTTPS) is a secure HTTP encrypted using the Secure Sockets Layer or Transport Layer Security (SSL/TLS) convention.
+ HyperText Transfer Protocol Secure, enables protected communication over the computer network.
